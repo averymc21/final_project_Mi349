@@ -44,8 +44,7 @@ a {
     padding-top: 15px;
     padding-bottom: 15px;
     text-align: center;
-    border: 5px solid #008080;
-    
+    border: 5px solid #008080;   
     
 }
 
@@ -85,7 +84,19 @@ a {
 }
 
 
-#runners_pics {
+#runners_pics1 {
+    width: 40%;
+    height: 300px;
+}
+
+#runners_pics2 {
+    width: 40%;
+    height: 300px;
+
+
+}
+
+#runners_pics3 {
     width: 40%;
     height: 300px;
 
@@ -103,7 +114,7 @@ img {
 
 
 .gear-brand {
-    flex: 0 0 45%; /* Adjust the width of each brand section as needed */
+    flex: 0 0 45%; 
     background-color: #008080;
     color: #ffffff;
     border: 2px solid #004040;
