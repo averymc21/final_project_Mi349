@@ -231,6 +231,34 @@ button:hover {
     background-color: #ffaa33;
 }
 
+
+#positive-tips,
+#mental-health-help {
+    flex: 1;
+    background-color: #008080;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px; /* Add some spacing between sections */
+}
+
+#positive-tips h2,
+#mental-health-help h2 {
+    margin-bottom: 20px;
+}
+
+#positive-tips ul,
+#mental-health-help ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#positive-tips li,
+#mental-health-help li {
+    margin-bottom: 15px;
+}
+
+
 footer {
     background-color: #333333;
     color: #ffffff;
